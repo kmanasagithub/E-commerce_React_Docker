@@ -38,7 +38,7 @@ cd E-commerce_React_Docker/frontend
    npm install
    ```
 3. **Start development server:**
-4.  ```bash
+ ```bash
    npm run dev
   ```
 
