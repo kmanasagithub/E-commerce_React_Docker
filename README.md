@@ -34,13 +34,13 @@ This project demonstrates how to set up a React app for local development and de
    cd E-commerce_React_Docker/frontend
   ```
 2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start development server:
   ```bash
-  npm install
+   npm run dev
   ```
-3.Start development server:
- ```bash
-npm run dev
- ```
 
 
 ## 🐳 Running with Docker
