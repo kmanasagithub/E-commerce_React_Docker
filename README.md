@@ -25,23 +25,22 @@ This project demonstrates how to set up a React app for local development and de
 - Docker installed on your system  
 
 ---
-
+ 
 ## 🔧 Running Locally (without Docker)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kmanasagithub/E-commerce_React_Docker.git
-   cd E-commerce_React_Docker/frontend
-  ```
-2. Install dependencies:
-   ```bash
+1. **Clone the repository:**
+```bash
+git clone https://github.com/kmanasagithub/E-commerce_React_Docker.git
+cd E-commerce_React_Docker/frontend
+```
+2. **Install dependencies:**
+ ```bash
    npm install
    ```
-3. Start development server:
-  ```bash
+3. **Start development server:**
+4.  ```bash
    npm run dev
   ```
-
 
 ## 🐳 Running with Docker
 You can give your Docker image any name you like. Here we are using `ecommerce-react` as an example.
